@@ -1,0 +1,8 @@
+401	Fetch: 8  Decode: 8  Issue: 8  Commit: 8
+402	Fetch: 8  Decode: 8  Issue: 8  Commit: 8  lsq:size 16
+403	Fetch: 8  Decode: 8  Issue: 8  Commit: 8  ruu:size 32
+404	Fetch: 8  Decode: 8  Issue: 8  Commit: 8  res:ialu 8
+405	Fetch: 8  Decode: 8  Issue: 8  Commit: 8  res:imult 2
+406	Fetch: 8  Decode: 8  Issue: 8  Commit: 8  res:fpalu 8
+407	Fetch: 8  Decode: 8  Issue: 8  Commit: 8  res:fpmult 2
+408     Fetch: 8  Decode: 8  Issue: 8  Commit: 8  res:memport 4
